@@ -37,11 +37,14 @@ Senior engineering leader turned AI founder. 10+ years building distributed syst
 ## Experience
 
 ```
-Senior Director of Software & AI Engineering    Inspectorio          2024-2025
+Founder & CEO                                    Meetless.ai          2025-Present
+  → Governance infrastructure for AI-assisted software delivery
+
+Senior Director of Software & AI Engineering     Inspectorio          2024-2025
   → AI-powered supply chain platform for 12,000+ brands/suppliers
 
-CEO & Founder                                   DayCon.ai            2023-2024
-  → AI parenting platform with LLM agent backends
+Lead Principal AI Engineer                       Backbase             2024
+  → AI engineering for global digital banking platform
 
 Vice President of Technology                     Hello Health Group   2023
   → Healthcare platform across 9 countries in Asia
@@ -51,6 +54,9 @@ Director of Engineering                          TIKI Corp            2019-2022
 
 Engineering Leader                               TrustingSocial       2018-2019
   → Digital lending for major banks, credit scoring for the unbanked
+
+Senior Software Engineer                         Ultimate Software    2014-2018
+  → Enterprise HR/payroll at one of the largest U.S. cloud HCM providers
 ```
 
 ## Education
