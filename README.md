@@ -57,7 +57,6 @@ Engineering Leader                               TrustingSocial       2018-2019
 
 | Degree | School |
 |--------|--------|
-| **MS in AI** (in progress) | Kennesaw State University |
 | **MS in AI & Machine Learning** | Georgia Institute of Technology |
 | **Executive MBA** | Quantic School of Business and Technology |
 | **BS in Computer Science** — Highest Honors | Georgia Institute of Technology |
