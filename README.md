@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://anpham.dev">anpham.dev</a> ·
-  <a href="https://linkedin.com/in/anphamthanh">LinkedIn</a> ·
-  <a href="mailto:anpham.dev@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/an-pham-atl/">LinkedIn</a>
 </p>
 
 ---
