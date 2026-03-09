@@ -40,7 +40,7 @@ Senior engineering leader turned AI founder. 10+ years building distributed syst
 Founder & CEO                                    Meetless.ai          2025-Present
   → Governance infrastructure for AI-assisted software delivery
 
-Senior Director of Software & AI Engineering     Inspectorio          2024-2025
+Senior Director of Software Engineering           Inspectorio          2024-2025
   → AI-powered supply chain platform for 12,000+ brands/suppliers
 
 Lead Principal AI Engineer                       Backbase             2024
